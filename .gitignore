@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/FactoryMethod/bin/Debug/netcoreapp3.1
+/FactoryMethod/obj
+/.vs/DesignPatterns/v16/.suo
