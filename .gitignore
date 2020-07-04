@@ -7,3 +7,5 @@
 /AbstractFactory/bin/Debug/netcoreapp3.1
 /AbstractFactory/obj
 /.vs/DesignPatterns/v16/.suo
+/Singleton/bin/Debug/netcoreapp3.1
+/Singleton/obj
