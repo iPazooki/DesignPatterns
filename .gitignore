@@ -4,4 +4,6 @@
 
 /FactoryMethod/bin/Debug/netcoreapp3.1
 /FactoryMethod/obj
+/AbstractFactory/bin/Debug/netcoreapp3.1
+/AbstractFactory/obj
 /.vs/DesignPatterns/v16/.suo
